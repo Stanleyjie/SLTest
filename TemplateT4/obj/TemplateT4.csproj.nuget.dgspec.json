@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\KR\\OccupationHubCoreAPI\\TemplateT4\\TemplateT4.csproj": {}
+    "G:\\GitTest\\SLTest\\TemplateT4\\TemplateT4.csproj": {}
   },
   "projects": {
-    "G:\\KR\\OccupationHubCoreAPI\\TemplateT4\\TemplateT4.csproj": {
+    "G:\\GitTest\\SLTest\\TemplateT4\\TemplateT4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\KR\\OccupationHubCoreAPI\\TemplateT4\\TemplateT4.csproj",
+        "projectUniqueName": "G:\\GitTest\\SLTest\\TemplateT4\\TemplateT4.csproj",
         "projectName": "TemplateT4",
-        "projectPath": "G:\\KR\\OccupationHubCoreAPI\\TemplateT4\\TemplateT4.csproj",
+        "projectPath": "G:\\GitTest\\SLTest\\TemplateT4\\TemplateT4.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\KR\\OccupationHubCoreAPI\\TemplateT4\\obj\\",
+        "outputPath": "G:\\GitTest\\SLTest\\TemplateT4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

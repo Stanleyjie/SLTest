@@ -10036,11 +10036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\KR\\OccupationHubCoreAPI\\Service\\Service.csproj",
+      "projectUniqueName": "G:\\GitTest\\SLTest\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "G:\\KR\\OccupationHubCoreAPI\\Service\\Service.csproj",
+      "projectPath": "G:\\GitTest\\SLTest\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\KR\\OccupationHubCoreAPI\\Service\\obj\\",
+      "outputPath": "G:\\GitTest\\SLTest\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -10061,8 +10061,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\KR\\OccupationHubCoreAPI\\Repository\\Repository.csproj": {
-              "projectPath": "G:\\KR\\OccupationHubCoreAPI\\Repository\\Repository.csproj"
+            "G:\\GitTest\\SLTest\\Repository\\Repository.csproj": {
+              "projectPath": "G:\\GitTest\\SLTest\\Repository\\Repository.csproj"
             }
           }
         }

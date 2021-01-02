@@ -12997,11 +12997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\KR\\OccupationHubCoreAPI\\PeHubCore\\PeHubCore.csproj",
+      "projectUniqueName": "G:\\GitTest\\SLTest\\PeHubCore\\PeHubCore.csproj",
       "projectName": "PeHubCore",
-      "projectPath": "G:\\KR\\OccupationHubCoreAPI\\PeHubCore\\PeHubCore.csproj",
+      "projectPath": "G:\\GitTest\\SLTest\\PeHubCore\\PeHubCore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\KR\\OccupationHubCoreAPI\\PeHubCore\\obj\\",
+      "outputPath": "G:\\GitTest\\SLTest\\PeHubCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13022,11 +13022,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\KR\\OccupationHubCoreAPI\\DataModel\\DataModel.csproj": {
-              "projectPath": "G:\\KR\\OccupationHubCoreAPI\\DataModel\\DataModel.csproj"
+            "G:\\GitTest\\SLTest\\DataModel\\DataModel.csproj": {
+              "projectPath": "G:\\GitTest\\SLTest\\DataModel\\DataModel.csproj"
             },
-            "G:\\KR\\OccupationHubCoreAPI\\Service\\Service.csproj": {
-              "projectPath": "G:\\KR\\OccupationHubCoreAPI\\Service\\Service.csproj"
+            "G:\\GitTest\\SLTest\\Service\\Service.csproj": {
+              "projectPath": "G:\\GitTest\\SLTest\\Service\\Service.csproj"
             }
           }
         }

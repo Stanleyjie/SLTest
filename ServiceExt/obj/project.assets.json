@@ -1382,11 +1382,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\KR\\OccupationHubCoreAPI\\ServiceExt\\ServiceExt.csproj",
+      "projectUniqueName": "G:\\GitTest\\SLTest\\ServiceExt\\ServiceExt.csproj",
       "projectName": "ServiceExt",
-      "projectPath": "G:\\KR\\OccupationHubCoreAPI\\ServiceExt\\ServiceExt.csproj",
+      "projectPath": "G:\\GitTest\\SLTest\\ServiceExt\\ServiceExt.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\KR\\OccupationHubCoreAPI\\ServiceExt\\obj\\",
+      "outputPath": "G:\\GitTest\\SLTest\\ServiceExt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

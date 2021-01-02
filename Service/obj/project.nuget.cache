@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S3VhNMyEnXVUnYpBBDf93kyNEIOAyqBzCGFeRJi3k5XXYyjTVJt2mMbOUXKNiYFYTzOOphvs2vYhF4jsI9UhNA==",
+  "dgSpecHash": "RPycZQu8PoDdp+6gPqAcHlctlXr5ZXrQstubbSI9rYT+FpAGGP1WFhPZZBgzxGNHfFxzwJQfWajiR2yIIc0u0Q==",
   "success": true,
-  "projectFilePath": "G:\\KR\\OccupationHubCoreAPI\\Service\\Service.csproj",
+  "projectFilePath": "G:\\GitTest\\SLTest\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\google.protobuf\\3.5.1\\google.protobuf.3.5.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",

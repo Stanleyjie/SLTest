@@ -1,0 +1,14 @@
+[[[自动注册扩展缓存完成]]]
+[2021/01/02 23:59:09.4556]
+[线程：1]
+注册总用时：347.5204ms
+自动扫描程序集：179个
+扩展缓存：
+Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[微信扩展缓存注册完成]]]
+[2021/01/02 23:59:09.4605]
+[线程：1]
+微信扩展缓存注册总用时：0.1239ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+

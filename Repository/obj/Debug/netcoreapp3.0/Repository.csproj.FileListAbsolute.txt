@@ -12,3 +12,17 @@ E:\康软\职检之家项目\OccupationHubCoreAPI\Repository\obj\Debug\netcoreap
 E:\康软\职检之家项目\OccupationHubCoreAPI\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CopyComplete
 E:\康软\职检之家项目\OccupationHubCoreAPI\Repository\obj\Debug\netcoreapp3.0\Repository.dll
 E:\康软\职检之家项目\OccupationHubCoreAPI\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
+G:\GitTest\SLTest\Repository\bin\Debug\netcoreapp3.0\Repository.deps.json
+G:\GitTest\SLTest\Repository\bin\Debug\netcoreapp3.0\Repository.dll
+G:\GitTest\SLTest\Repository\bin\Debug\netcoreapp3.0\Repository.pdb
+G:\GitTest\SLTest\Repository\bin\Debug\netcoreapp3.0\DataModel.dll
+G:\GitTest\SLTest\Repository\bin\Debug\netcoreapp3.0\ServiceExt.dll
+G:\GitTest\SLTest\Repository\bin\Debug\netcoreapp3.0\DataModel.pdb
+G:\GitTest\SLTest\Repository\bin\Debug\netcoreapp3.0\ServiceExt.pdb
+G:\GitTest\SLTest\Repository\obj\Debug\netcoreapp3.0\Repository.csprojAssemblyReference.cache
+G:\GitTest\SLTest\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+G:\GitTest\SLTest\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfo.cs
+G:\GitTest\SLTest\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CoreCompileInputs.cache
+G:\GitTest\SLTest\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CopyComplete
+G:\GitTest\SLTest\Repository\obj\Debug\netcoreapp3.0\Repository.dll
+G:\GitTest\SLTest\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
